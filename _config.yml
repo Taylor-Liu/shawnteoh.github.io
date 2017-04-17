@@ -27,6 +27,7 @@ github_profile: "https://github.com/ShawnTeoh"
 user: "Shawn Teoh"
 contact_url: "https://goo.gl/tVljbV"
 google_tracking_id: "UA-96531316-1"
+google_site_verification: "UA-96531316-1"
 
 # Build settings
 timezone: Asia/Kuala_Lumpur
@@ -34,6 +35,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
