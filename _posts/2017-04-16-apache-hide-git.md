@@ -10,7 +10,7 @@ Let's start with something light in this first post. I am using git for version 
 
 The solution is simple, just append the following line in the **ROOT** of your webserver
 
-{% highlight apache %}
+{% highlight apache linenos %}
 RedirectMatch 404 /\.git
 {% endhighlight %}
 
