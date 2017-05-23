@@ -2,7 +2,7 @@
  "name": "App",
  "icons": [
   {
-   "src": "\/assets\/res\/assets\/res\/android-icon-36x36.png",
+   "src": "\/assets\/res\/android-icon-36x36.png",
    "sizes": "36x36",
    "type": "image\/png",
    "density": "0.75"
