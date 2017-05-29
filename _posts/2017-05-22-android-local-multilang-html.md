@@ -4,6 +4,7 @@ title: "Android Multilanguage Support for Local HTML"
 date: 2017-05-22 15:17:57 +0800
 categories: notes 
 tags: android java
+comments: 1
 ---
 
 If your application only supports Android Lollipop and above, then the method is relatively straightforward. Just place your HTML files in res/raw, categorised with language identifiers.

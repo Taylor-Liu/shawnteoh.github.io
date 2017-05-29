@@ -4,6 +4,7 @@ title: "Python List Call by Reference"
 date: 2017-04-17 22:08:07 +0800
 categories: notes
 tags: python
+comments: 1
 ---
 
 I was writing a class in Python and there was a class variable that was supposed to be a copy of a global predefined list.

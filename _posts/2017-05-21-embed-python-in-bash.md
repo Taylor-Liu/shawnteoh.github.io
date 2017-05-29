@@ -4,6 +4,7 @@ title: "Embedding Python Snippets in Bash Scripts"
 date: 2017-05-21 00:27:39 +0800
 categories: notes
 tags: python bash
+comments: 1
 ---
 
 In my opinion, certain operations are better performed using certain scripting languages. Taking Python and Bash as context, file deletion, moving or processing (zip, tar etc.) is easily achieved using Bash. Not to say that it cannot be done using Python, but to do so requires quite some documentation lookup and usage of various modules. On the other hand, string operations such as splitting, joining and formatting can be accomplished more naturally (and easily? String slicing in Bash is rather confusing IMHO) in Python.

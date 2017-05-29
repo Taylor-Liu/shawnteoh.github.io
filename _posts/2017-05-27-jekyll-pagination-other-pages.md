@@ -4,6 +4,7 @@ title: "Jekyll Pagination in Other Pages"
 date: 2017-05-27 22:44:36 +0800
 categories: notes
 tags: jekyll
+comments: 1
 ---
 
 There will often be use cases where you decide to use your root directory to serve a static home page (e.g. app landing page) and then a different page to list your blog posts. Jekyll's pagination plugin applies pagination to your root `index.html` by default and will spit warnings if you enabled it but no `index.html` file is found.
