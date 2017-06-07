@@ -4,6 +4,7 @@ title: "Chinese Web Fonts"
 date: 2017-06-07 11:07:02 +0800
 categories: notes
 tags: css html
+comments: 1
 ---
 
 Recently I had to design a multilingual website which involves Chinese. Unlike English (or any Latin script based language), each Chinese character has its own meaning, which means a large character set is required. This causes Chinese fonts to be about [3-7 MB per font weight](https://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444), which would greatly increase the load time. Therefore while Latin script languages have a plethora of web fonts that can be applied, the selection of Chinese fonts is rather limited.
