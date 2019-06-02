@@ -7,7 +7,7 @@ tags: 写作
 comments: 1
 ---
 
-不同人对于写作带来的益处的思考
+**不同人对于写作带来的益处的思考**
 
 1. 书写是为了更好地思考 - 刘未鹏 [链接](http://mindhacks.cn/2009/02/09/writing-is-better-thinking/)
 
